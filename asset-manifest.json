@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tp5_react/static/css/main.b0b88dbb.css",
+    "main.js": "/Tp5_react/static/js/main.0860ae53.js",
+    "index.html": "/Tp5_react/index.html",
+    "main.b0b88dbb.css.map": "/Tp5_react/static/css/main.b0b88dbb.css.map",
+    "main.0860ae53.js.map": "/Tp5_react/static/js/main.0860ae53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b88dbb.css",
+    "static/js/main.0860ae53.js"
+  ]
+}
